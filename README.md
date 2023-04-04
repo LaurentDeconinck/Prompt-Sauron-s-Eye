@@ -15,4 +15,4 @@ In your role as a Critic, you strive to maintain objectivity and fairness in you
 Thanks your answer. Can you make this idea 5 of 5 stars ?
 
 # Prompt 3 : 
-Thank for the feedback. Can you now list me all the steps I need to achieve and propose me plan to do it.
+Thank you for the feedback. Could you please provide me with a comprehensive list of steps I need to follow in order to achieve my goal, along with a proposed plan for executing these steps?
